@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-//Board  Dimensions
+//Board  Dimensionss
 #define WIDTH 25
 #define HEIGHT 15 
 
