@@ -86,3 +86,4 @@ int move(Object *obj, int x, int y) {
 	
     return FALSE;
 }
+	hello
