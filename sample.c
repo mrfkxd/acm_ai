@@ -12,7 +12,7 @@
 #define DOWN 2
 #define LEFT 3
 
-//Action Types
+// Action Types
 #define MOVE 1
 #define ATTACK 2
 #define BUILD_RECRUIT 3
